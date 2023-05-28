@@ -4,8 +4,13 @@ Predicting the quality of wine using Random Forest Classifier and Logistic Regre
 ### Link to the Dataset: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ### Project Flow
+1. [Data Preprocessing](#data-preprocessing) 
+2. [Data Analysis](#data-analysis)
+3. [Finding the accuracies of both the models](#model-accuracies)
+4. [Making Inferences](#inferences)
 
-### Data Preprocessing and Analysis
+### Data Preprocessing
+### Data Analysis
 
 ### Model Accuracies
 
