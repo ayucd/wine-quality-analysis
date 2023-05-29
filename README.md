@@ -3,22 +3,22 @@ Predicting the quality of wine using Random Forest Classifier and Logistic Regre
 
 Link to the Dataset: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
-### Project Flow
+## Project Flow
 1. [Data Preprocessing](#data-preprocessing) 
 2. [Data Analysis](#data-analysis)
 3. [Finding the accuracies of both the models](#model-accuracies)
 4. [Making Inferences](#inferences)
 
-### Data Preprocessing
-### Data Analysis
+## Data Preprocessing
+## Data Analysis
 
-### Model Accuracies
+## Model Accuracies
 
 Random Forest Classifier: 93.4%
 
 Logistic Regression: 88.8%
 
-### Inferences
+## Inferences
 
 Both models performed quite satisfactorily for making the predictions, although the Random Forest Classifier performed a tad bit better than Logistic Regression, probably because of the following reasons:
 1. **Random Forest Classifier being an ensemble of weak learners**: Random Forest is an ensemble method that combines multiple decision trees. Each tree is considered a weak learner, but the ensemble of trees can result in a strong and robust classifier. This ensemble nature helps Random Forest to generalize well and reduce overfitting, especially in situations where the dataset is high-dimensional or noisy. Logistic Regression, being a single linear model, may struggle to generalize as effectively in such scenarios.
